@@ -34,7 +34,7 @@
 <p align='center'>
 </p>
 
- <a
+ <p
   align="center"><img src="https://profile-counter.glitch.me/{KELVIN-XDM}/count.svg" alt="jampan :: Visitor's Count" old_src="https://profile-counter.glitch.me/{jampan}/count.svg" /></p>
 
 
