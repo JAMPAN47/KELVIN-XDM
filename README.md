@@ -89,10 +89,24 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT KELVINE HERE
-  DM FOR SERIOUS BUSINESS
+## DM FOR SERIOUS BUSINESS 
 
-   <a href="https://github.com/JAMPAN47/KELVIN-XDM-INFO"><img title="CONTACT-KELVIN" src="https://img.shields.io/badge/CONTACT-KELVIN-h?color=pink&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+*KINGDOM*
+
+<table>
+  <tr>
+    <td>sɪʀ ᴋᴇʟᴠɪɴᴇ</td></td>
+    <td>ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.me/255674229015?"><img src="https://files.catbox.moe/3vfakd.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255757103671?"><img src="https://files.catbox.moe/zkz7by.jpg" width="180"</td>
+  </tr>
+</table>
+
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 
